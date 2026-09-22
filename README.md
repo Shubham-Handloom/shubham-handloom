@@ -1,16 +1,24 @@
-## Hi there 👋
+# Shubham Handloom
 
-<!--
-**Shubham-Handloom/shubham-handloom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shubham Handloom is a home furnishing store in Panchkula, Haryana, offering curtains, blinds, wallpapers and other interior furnishing solutions.
 
-Here are some ideas to get you started:
+## Our Products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Customized Curtains
+- Roller Blinds
+- Zebra Blinds
+- Wooden Blinds
+- Wallpapers
+- Sofa Fabrics
+- Carpets
+- Upholstery Solutions
+
+## Contact
+
+**Address:** SCO 398, First & Second Floor, Sector 20, Panchkula, Haryana 134117
+
+**Phone:** 07696896427
+
+**Website:** https://shubham-handloom.localo.site/
+
+Shubham Handloom provides practical and stylish home furnishing options for residential interiors in Panchkula.
